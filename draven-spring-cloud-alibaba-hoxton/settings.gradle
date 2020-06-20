@@ -1,0 +1,4 @@
+rootProject.name = 'draven-spring-cloud-alibaba-hoxton'
+include 'noxus-draven-alibaba-hoxton-provider'
+include 'noxus-draven-alibaba-hoxton-consumer'
+include 'noxus-draven-alibaba-hoxton-gateway'
